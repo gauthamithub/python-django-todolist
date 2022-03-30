@@ -1,0 +1,14 @@
+.banner{
+        background-color:rgb(12 74 110);
+        font-family:fantasy;
+        width:110%;
+        height:50px;
+        margin-bottom:50px;
+       }
+
+.banner-text{
+       text-align:center;
+       padding:10px;
+       color:white;
+       }
+
